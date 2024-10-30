@@ -1,0 +1,7 @@
+[debug] > Exec({file:/C:/Users/PolyakovMA/Desktop/Course/Task8/}root/dependencyClasspath, None, None)
+[debug] Evaluating tasks: Compile / dependencyClasspath
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[success] Total time: 0 s, completed 29 окт. 2024 г., 00:07:44
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)
